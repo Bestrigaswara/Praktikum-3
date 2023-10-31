@@ -1,3 +1,6 @@
+Nama:Bestrigaswara ABhi Mukti Peramana
+Nim: 202210370311220
+
 # Aplikasi Pengelola Kata Sandi Sederhana
 
 Ini adalah aplikasi pengelola kata sandi sederhana yang dibangun dengan Java. Aplikasi ini memungkinkan Anda untuk menyimpan dan melihat kata sandi untuk berbagai situs web atau layanan.
